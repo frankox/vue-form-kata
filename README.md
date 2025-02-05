@@ -1,20 +1,21 @@
 # Vue.js Refactoring Kata
 
-The goal of this kata is to learn and apply concepts from Domain-driven Design and Layered Architecture to some existing code.
+The goal of this kata is to learn and apply concepts from Domain-driven Design and Layered Architecture to some existing
+code.
 
 ## Setting up the project
 
 1. Checkout the project
 
 ```bash
-git clone https://github.com/alonsogarciapablo/vue-js-refactoring-kata.git
+git clone https://github.com/frankox/vue-form-kata.git
 
 ```
 
 2. Install dependencies
 
 ```bash
-npm install
+npm i
 
 ```
 
